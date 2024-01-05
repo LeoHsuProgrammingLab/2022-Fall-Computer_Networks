@@ -1,0 +1,138 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/include/opencv2/quality.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/include/opencv2/quality/quality_utils.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/include/opencv2/quality/qualitybase.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/include/opencv2/quality/qualitybrisque.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/include/opencv2/quality/qualitygmsd.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/include/opencv2/quality/qualitymse.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/include/opencv2/quality/qualitypsnr.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/include/opencv2/quality/qualityssim.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/src/qualitybrisque.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/src/qualitygmsd.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/src/qualitymse.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/src/qualityssim.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/quality/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/build/cvconfig.h"
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/build/opencv2/opencv_modules.hpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_quality",
+			"Module"
+		],
+		"name" : "opencv_quality"
+	}
+}

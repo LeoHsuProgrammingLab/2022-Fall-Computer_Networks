@@ -1,0 +1,51 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/freetype/test/test_basic.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_freetype",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/freetype/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_freetype",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/freetype/test/test_putText.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_freetype",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/freetype/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_freetype",
+				"AccuracyTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_freetype",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_freetype"
+	}
+}

@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_shape
+ Sample
+# Source files and their labels
+/Users/leohsuinthehouse/Desktop/碩二上學期/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/shape/samples/shape_example.cpp
+ Extra
+ opencv_shape
+ Sample

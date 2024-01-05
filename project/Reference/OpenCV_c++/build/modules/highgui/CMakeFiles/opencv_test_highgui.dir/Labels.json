@@ -1,0 +1,42 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/highgui/test/test_gui.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/highgui/test/test_main.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/highgui/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"AccuracyTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_highgui",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_highgui"
+	}
+}

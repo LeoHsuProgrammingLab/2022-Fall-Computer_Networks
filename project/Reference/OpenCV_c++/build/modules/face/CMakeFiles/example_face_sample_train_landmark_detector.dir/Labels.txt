@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_face
+ Sample
+# Source files and their labels
+/Users/leohsuinthehouse/Desktop/碩二上學期/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/face/samples/sample_train_landmark_detector.cpp
+ Extra
+ opencv_face
+ Sample

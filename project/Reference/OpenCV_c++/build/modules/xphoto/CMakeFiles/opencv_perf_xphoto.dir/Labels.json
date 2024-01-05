@@ -1,0 +1,51 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/xphoto/perf/perf_grayworld.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/xphoto/perf/perf_learning_based_color_balance.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/xphoto/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/xphoto/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"PerfTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_xphoto",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_xphoto"
+	}
+}

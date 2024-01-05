@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_dnn_superres
+ Sample
+# Source files and their labels
+/Users/leohsuinthehouse/Desktop/碩二上學期/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/dnn_superres/samples/dnn_superres_video.cpp
+ Extra
+ opencv_dnn_superres
+ Sample

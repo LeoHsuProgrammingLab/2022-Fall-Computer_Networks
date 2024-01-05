@@ -1,0 +1,42 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/shape/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_shape",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/shape/test/test_shape.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_shape",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/shape/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_shape",
+				"AccuracyTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_shape",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_shape"
+	}
+}

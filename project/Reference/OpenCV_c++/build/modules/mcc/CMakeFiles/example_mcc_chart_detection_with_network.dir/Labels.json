@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/mcc/samples/chart_detection_with_network.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_mcc",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_mcc",
+			"Sample"
+		],
+		"name" : "example_mcc_chart_detection_with_network"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/stitching/perf/opencl/perf_stitch.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_stitching",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/stitching/perf/opencl/perf_warpers.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_stitching",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/stitching/perf/perf_estimators.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_stitching",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/stitching/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_stitching",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/stitching/perf/perf_matchers.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_stitching",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/stitching/perf/perf_stich.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_stitching",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/stitching/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_stitching",
+				"PerfTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_stitching",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_stitching"
+	}
+}

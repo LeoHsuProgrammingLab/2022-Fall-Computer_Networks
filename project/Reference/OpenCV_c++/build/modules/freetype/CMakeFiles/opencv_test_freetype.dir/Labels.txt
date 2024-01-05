@@ -1,0 +1,21 @@
+# Target labels
+ Extra
+ opencv_freetype
+ AccuracyTest
+# Source files and their labels
+/Users/leohsuinthehouse/Desktop/碩二上學期/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/freetype/test/test_basic.cpp
+ Extra
+ opencv_freetype
+ AccuracyTest
+/Users/leohsuinthehouse/Desktop/碩二上學期/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/freetype/test/test_main.cpp
+ Extra
+ opencv_freetype
+ AccuracyTest
+/Users/leohsuinthehouse/Desktop/碩二上學期/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/freetype/test/test_putText.cpp
+ Extra
+ opencv_freetype
+ AccuracyTest
+/Users/leohsuinthehouse/Desktop/碩二上學期/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/freetype/test/test_precomp.hpp
+ Extra
+ opencv_freetype
+ AccuracyTest

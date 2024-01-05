@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_img_hash
+ Sample
+# Source files and their labels
+/Users/leohsuinthehouse/Desktop/碩二上學期/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/img_hash/samples/hash_samples.cpp
+ Extra
+ opencv_img_hash
+ Sample

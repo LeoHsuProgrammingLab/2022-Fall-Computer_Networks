@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/gapi/samples/api_example.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_gapi",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_gapi",
+			"Sample"
+		],
+		"name" : "example_gapi_api_example"
+	}
+}

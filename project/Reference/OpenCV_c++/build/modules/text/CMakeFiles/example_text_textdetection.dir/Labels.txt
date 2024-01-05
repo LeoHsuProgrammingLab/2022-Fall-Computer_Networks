@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_text
+ Sample
+# Source files and their labels
+/Users/leohsuinthehouse/Desktop/碩二上學期/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/text/samples/textdetection.cpp
+ Extra
+ opencv_text
+ Sample

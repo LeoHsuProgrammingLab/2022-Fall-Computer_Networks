@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_alphamat
+ Sample
+# Source files and their labels
+/Users/leohsuinthehouse/Desktop/碩二上學期/Computer_Networks/project/Reference/OpenCV_c++/opencv_contrib/modules/alphamat/samples/information_flow_matting.cpp
+ Extra
+ opencv_alphamat
+ Sample

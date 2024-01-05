@@ -1,0 +1,60 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/objdetect/perf/opencl/perf_cascades.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/objdetect/perf/opencl/perf_hogdetect.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/objdetect/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/objdetect/perf/perf_qrcode_pipeline.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Users/leohsuinthehouse/Desktop/\u78a9\u4e8c\u4e0a\u5b78\u671f/Computer_Networks/project/Reference/OpenCV_c++/opencv/modules/objdetect/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"PerfTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_objdetect",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_objdetect"
+	}
+}
